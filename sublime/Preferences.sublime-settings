@@ -1,0 +1,33 @@
+{
+  "bold_folder_labels": true,
+  "color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
+  "ensure_newline_at_eof_on_save": true,
+  "file_exclude_patterns":
+  [
+    "*.min.js",
+    "*.min.css"
+  ],
+  "folder_exclude_patterns":
+  [
+    "node_modules",
+    ".git"
+  ],
+  "font_face": "Fira Mono OT",
+  "font_size": 14.0,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "rulers":
+  [
+    140
+  ],
+  "tab_size": 2,
+  "theme": "Soda Light.sublime-theme",
+  "trailing_spaces_highlight_color": "",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "wide_caret": true
+}
